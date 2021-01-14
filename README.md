@@ -23,10 +23,15 @@
 - ReactJS
 - JavaScript
 - Python
+- Jupyter Notebook
 - C++
 - Git
 - SQL/MySQL
 - Pandas, Scikit-Learn and Matplotlib
 
 ### GitHub Stats
-[![Rafael Greca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgreca&count_private=true&theme=radical)](https://github.com/rafaelgreca/rafaelgreca)
+[![Rafael Greca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgreca&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/rafaelgreca/rafaelgreca)
+
+### Top Languages
+
+![Top Languags](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgreca&theme=tokyonight)
