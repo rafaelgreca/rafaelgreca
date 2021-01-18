@@ -1,6 +1,6 @@
 ## Hello! I'm Rafael Greca.
 
-### I'm a computer science bachelor student at Federal University of Itajubá (UNIFEI), artificial intelligence enthusiastic and developer. I love to learn new things everyday.
+### I'm a Computer Science student at Federal University of Itajubá (UNIFEI), AI enthusiast and developer. I love to learn new things everyday.
 
 - I’m currently working on personal data science, machine learning and web projects.
 - I’m currently learning ReactJS, Data Science and Machine Learning with Python.
