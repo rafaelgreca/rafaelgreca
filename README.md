@@ -34,4 +34,8 @@
 
 ### Top Languages
 
-![Top Languags](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgreca&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgreca&theme=tokyonight)
+
+### GitHub Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaelgreca&hide_border=true)
