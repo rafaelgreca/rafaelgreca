@@ -3,7 +3,7 @@
 ### I'm a Computer Science student at Federal University of Itajubá (UNIFEI), AI enthusiast and developer. I love to learn new things everyday.
 
 - I’m currently working on personal data science, machine learning and web projects.
-- I’m currently learning ReactJS, Data Science and Machine Learning with Python.
+- I’m currently learning Data Science and Machine Learning with Python. And in the future I want to learn Django and Flask.
 - I’m looking to collaborate on with other Data Science/Machine Learning beginners.
 - 2021 Goals: Improve my skills, do some cool projects and improve my GitHub profile. Also I am lookig for an internship/job in the Data Science/Machine Learning field! :)
 - Fun fact: In my free time I like to watch and read about NBA (#GoSpursGo) and study German.
@@ -21,13 +21,12 @@
 - C
 - HTML5 and CSS3
 - ReactJS
-- JavaScript
 - Python
 - Jupyter Notebook
 - C++
 - Git
 - SQL/MySQL
-- Pandas, Scikit-Learn and Matplotlib
+- Pandas, Scikit-Learn, Matplotlib and Seaborn
 
 ### GitHub Stats
 [![Rafael Greca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgreca&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/rafaelgreca/rafaelgreca)
@@ -38,4 +37,4 @@
 
 ### GitHub Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaelgreca&hide_border=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaelgreca&theme=tokyonight)
