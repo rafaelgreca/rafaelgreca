@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelgreca&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgreca" /> </p>
 
-- 🔭 I’m currently working at **as a full time Junior Machine Learning Researcher**
+- 🔭 I’m currently working at **as a full time Junior Machine Learning Researcher at CPQD**
 
 - 🌱 I’m currently learning **Machine Learning Engineering skills**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **rgvieira97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/187KztvdcvR05Xq4FFAnMZxtrQF2FmJX5/view?usp=sharing](https://drive.google.com/file/d/187KztvdcvR05Xq4FFAnMZxtrQF2FmJX5/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/187KztvdcvR05Xq4FFAnMZxtrQF2FmJX5/view?usp=sharing)
 
-- ⚡ Fun fact **I'm addicted to basketball and a horror and thriller movies enjoyer**
+- ⚡ Fun fact **I'm addicted to basketball, football, and a horror and thriller movies enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
