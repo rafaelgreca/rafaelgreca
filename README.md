@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rafael Greca</h1>
-<h3 align="center">A passionate AI enthusiast from Brazil</h3>
+<h3 align="center">A Machine Learning Engineer aspirant from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelgreca&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgreca" /> </p>
 
-- 🔭 I’m currently working at **as a full time Junior Machine Learning Researcher at CPQD**
+- 🔭 I’m currently working **as a full-time Junior Machine Learning Researcher at CPQD**
 
-- 🌱 I’m currently learning **Machine Learning Engineering skills**
+- 🌱 I’m currently learning **Machine Learning Engineering, Natural Language Processing, and MLOps skills**. I'm also **improving my English and learning Italian in my free time**
 
-- 👯 I’m looking to collaborate on **Machine Learning or Deep Learning open source projects**
+- 👯 I’m looking to collaborate on **Natural Language Processing and Signal Processing open source projects**
 
-- 💬 Ask me about **Machine Learning, Deep Learning or Python**
+- 💬 Ask me about **Machine Learning, Deep Learning, PyTorch, or Python**
 
 - 📫 How to reach me **rgvieira97@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/187KztvdcvR05Xq4FFAnMZxtrQF2FmJX5/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Ao7Hc6fNefqk2vPmjqZgO82SAqAhNQBG/view?usp=sharing)
 
-- ⚡ Fun fact **I'm addicted to basketball, football, and a horror and thriller movies enjoyer**
+- ⚡ Fun fact **I'm addicted to NBA (#GoSpursGo), football (AS Roma and São Paulo FC fan), and horror movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
