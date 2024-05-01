@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rgvieira97@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Ao7Hc6fNefqk2vPmjqZgO82SAqAhNQBG/view?usp=sharing)
-
 - ⚡ Fun fact **I'm addicted to NBA (#GoSpursGo), football (AS Roma and São Paulo FC fan), and horror movies**
 
 <h3 align="left">Connect with me:</h3>
