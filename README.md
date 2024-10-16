@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working **as a full-time Junior Machine Learning Researcher at CPQD**
 
-- 🌱 I’m currently learning **Machine Learning Engineering, Natural Language Processing, and MLOps skills**. I'm also **improving my English and learning Italian in my free time**
+- 🌱 I’m currently learning **Machine Learning Engineering, Natural Language Processing, and MLOps skills**. I'm also **improving my English and learning Italian in my free time**.
 
-- 👯 I’m looking to collaborate on **Natural Language Processing and Signal Processing open source projects**
+- 👯 I’m looking to collaborate on **Natural Language Processing, Deep Learning, and MLOps open source projects**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, PyTorch, or Python**
 
-- 📫 How to reach me **rgvieira97@gmail.com**
+- 📫 How to reach me **me@rgrecav.com**
 
 - ⚡ Fun fact **I'm addicted to NBA (#GoSpursGo), football (AS Roma and São Paulo FC fan), and horror movies**
 
