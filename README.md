@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelgreca&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgreca" /> </p>
 
-- 🔭 I’m currently working **as a full-time Junior Machine Learning Researcher at CPQD**
+- 🔭 I’m currently working **as a full-time Junior Machine Learning Researcher**
 
 - 🌱 I’m currently learning **Machine Learning Engineering, Natural Language Processing, and MLOps skills**. I'm also **improving my English and learning Italian in my free time**.
 
