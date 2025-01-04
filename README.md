@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rafael Greca</h1>
-<h3 align="center">A Machine Learning Engineer aspirant from Brazil</h3>
+### Rafael Greca
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelgreca&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgreca" /> </p>
+> /rə.fəˈɛl ˈɡrɛ.ka/
 
-- 🔭 I’m currently working **as a full-time Junior Machine Learning Researcher**
+### About me
 
-- 🌱 I’m currently learning **Machine Learning Engineering, Natural Language Processing, and MLOps skills**. I'm also **improving my English and learning Italian in my free time**.
+I'm a Computer Scientist from Brazil who loves coding and anything related to Artificial Intelligence. I also love to learn new languages; currently, I'm learning Italian while also improving my English skills. Other facts about me:
 
-- 👯 I’m looking to collaborate on **Natural Language Processing, Deep Learning, and MLOps open source projects**
+- I’m currently working as a full-time Junior Machine Learning Researcher.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, PyTorch, or Python**
+- I'm interested in Machine Learning Engineering, Natural Language Processing, and MLOps.
 
-- 📫 How to reach me **me@rgrecav.com**
+- I’m looking to collaborate on Natural Language Processing, Deep Learning, and MLOps open-source projects.
 
-- ⚡ Fun fact **I'm addicted to NBA (#GoSpursGo), football (AS Roma and São Paulo FC fan), and horror movies**
+### My latest projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafaelgreca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelgreca" height="30" width="40" /></a>
-<a href="https://kaggle.com/rafaelgreca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafaelgreca" height="30" width="40" /></a>
-</p>
+- [ScratchML](https://github.com/rafaelgreca/scratchml) -  A Python library called ScratchML was created to build the most fundamental Machine Learning models from scratch (using only Numpy), emphasizing producing user-friendly, straightforward, and easy-to-use implementations for novices and enthusiasts.
+
+- [End-to-end MLOps Project](https://github.com/rafaelgreca/e2e-mlops-project) - The purpose of this project's design, development, and structure is to create an end-to-end Machine Learning Operations (MLOps) lifecycle to classify an individual's level of obesity based on their physical characteristics and eating habits.
+
+- [Speech Emotion Recognition using Deep Learning and Discrete Wavelet Transform](https://github.com/rafaelgreca/ser-wavelet) - A deep learning solution using Convolutional Neural Networks and Wavelet Transform to tackle the Speech Emotion Recognition task.
+
+- [Non-Oficial Voxseg PyTorch Implementation](https://github.com/rafaelgreca/voxseg-pytorch) - The Voxseg implementation in PyTorch. Voxseg is a Python library for voice activity detection (VAD) for speech/non-speech segmentation.
+
+
+### Connect with me
+
+- I love to connect and interact with other people, so feel free to send me a connection on [LinkedIn](https://linkedin.com/in/rafaelgreca)!
+
+- I'm always looking forward to contributing to awesome, cool, open-source projects here on GitHub. So, if you have any project that you want me to contribute to or if you have an idea of something cool we can build together, feel free to reach me at me@rgrecav.com.
+
+- Check out my [personal website](https://rgrecav.com/) to learn more about me.
+
+- Follow me on [Kaggle](https://www.kaggle.com/rafaelgreca), [GitHub](https://github.com/rafaelgreca), or [LeetCode](https://leetcode.com/u/rafaelgreca/).
